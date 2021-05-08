@@ -1,2 +1,2 @@
 # Cursos-e-Eventos
-Repositório de Cursos e Eventos 
+Repositório para cursos e Eventos práticos 
